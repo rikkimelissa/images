@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tflight_images</folder>
+	<filename>0573.jpg</filename>
+	<path>/home/rikki/Desktop/tflight_images/0573.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>25</ymin>
+			<xmax>488</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>
